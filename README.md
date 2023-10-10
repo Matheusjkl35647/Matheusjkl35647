@@ -52,8 +52,6 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheusjkl35647&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/Matheusjkl35647/Matheusjkl35647/blob/output/github-contribution-grid-snake.svg)
-
 ## Contatos
 <div>
 <a href="https://instagram.com/matheusjhonathan" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
