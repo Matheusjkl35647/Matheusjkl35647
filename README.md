@@ -58,3 +58,9 @@
 <a href = "mailto:contato@matheusjhonathan445@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/matheus-jhonatan-santos" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
+## Licença 
+
+The [MIT License]() (MIT)
+
+Copyright :copyright: 2023 - Matheus J. Santos
