@@ -80,4 +80,4 @@
 
 The [MIT License]() (MIT)
 
-Copyright :copyright: 2023 - Matheus J. Santos
+Copyright :copyright: 2024 - Matheus J. Santos
