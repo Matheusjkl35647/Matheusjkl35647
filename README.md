@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100%" src="https://media.licdn.com/dms/image/D5616AQEq6nvvx8KIFA/profile-displaybackgroundimage-shrink_350_1400/0/1692650702237?e=1702512000&v=beta&t=AuDQDlN78RpHP_ycGbxXgIuVjN-yLOVS3eHA2TIqVjQ](https://media.licdn.com/dms/image/v2/D5616AQEq6nvvx8KIFA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1692650703772?e=1734566400&v=beta&t=EJ6ogDeTyDM0EnvNpW9dXDmH1-BAuXztFnszwtpzCrM)" align="center" alt="Capa LinkedIn Matheus" />
+ <img width="100%" src="https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?t=st=1729001841~exp=1729002441~hmac=a09e220c761e38ca5ec217f5f5c0cebd397df0b788c38b96fab9bec384429eec)" align="center" alt="Capa LinkedIn Matheus" />
  <h2 align="center">Olá, seja bem vindo! :wave:</h2>
 </p>
 
